@@ -11,6 +11,7 @@
 #include <sstream>
 #include "md5.hpp"
 
+#define зиромеморис ZeroMemory
 #define меин main
 #define хуеид void
 #define сказать std::cout
