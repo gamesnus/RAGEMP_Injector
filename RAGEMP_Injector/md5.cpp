@@ -1,4 +1,4 @@
-#include "MD5.h"
+#include "MD5.hpp"
 
 /* system implementation headers */
 #include <cstdio>
